@@ -7,13 +7,13 @@
 This repository contains the lab exercises and practical work completed as part of the Software Engineering course.
 
 ## Repository Structure
-The repository is organised into separate folders, with each folder containing the work for a respective lab.
 
-## Labs
-- Lab 1
-- Lab 2
-- Lab 3
-- Lab 4
-- Lab 5
-- Lab 6
-- Lab 7
+```text
+software-engineering-labs/
+├── Lab 1/
+├── Lab 2/
+├── Lab 3/
+├── Lab 4/
+├── Lab 5/
+├── Lab 6/
+└── Lab 7/
